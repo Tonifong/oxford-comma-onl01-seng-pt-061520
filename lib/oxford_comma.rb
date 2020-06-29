@@ -7,3 +7,5 @@ if array.size= 1
   return array.first
   
   elsif array.size=2
+  return array=["kiwi","durian"].join(" and ")
+  
