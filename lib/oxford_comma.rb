@@ -1,6 +1,8 @@
 
 def oxford_comma(array)
   
-	if  kiwi.length=3
-      return "kiwi"
-end
+array=["kiwi","durian"]
+
+if array.size= 1 
+  return array.
+  
