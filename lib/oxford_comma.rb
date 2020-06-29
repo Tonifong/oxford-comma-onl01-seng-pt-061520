@@ -5,7 +5,7 @@ def oxford_comma(array)
 
   if array.size == 1
     
-    return array="kiwi"
+    puts array="kiwi"
     
     elsif array.size==2
     
@@ -13,6 +13,7 @@ def oxford_comma(array)
     
    
    end
+   
  end
 
   
