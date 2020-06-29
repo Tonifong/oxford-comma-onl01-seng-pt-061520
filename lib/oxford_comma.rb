@@ -1,9 +1,10 @@
+require 'pry'
+
 
 def oxford_comma(array)
-  
+  binding.pry
   
   array=["kiwi","durian"]
-  
 
   if array.size == 1
     
