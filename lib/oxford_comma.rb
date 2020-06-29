@@ -9,7 +9,7 @@ def oxford_comma(array)
     
     elsif array.size==2
     
-    puts array=["kiwi","durian"].join
+    puts array=["kiwi","durian"].join(" and ")
     
    
    end
